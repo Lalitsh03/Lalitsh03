@@ -45,8 +45,8 @@ I’m passionate about **data analytics, web scraping, and building practical, u
 ## 🚀 Projects & Highlights
 
 ### 💼 Saayam For All
-- 🔹 Connected NGO datasets to the platform using **REST APIs + Python**, enabling **real-time dashboards** and reducing manual reporting.  
-- 🔹 Designed **use cases, workflows, and BPMN diagrams**, and contributed to **end-to-end feature implementation** (requirements → drafting → development).
+🔹 Connected NGO datasets to the platform using **REST APIs + Python**, enabling **real-time dashboards** and reducing manual reporting.  
+🔹 Designed **use cases, workflows, and BPMN diagrams**, and contributed to **end-to-end feature implementation** (requirements → drafting → development).
 
 ### 🏠 Real Estate Market Analysis — Orange County
 **Description:** Analyzed environmental and socioeconomic factors influencing Orange County housing prices using advanced statistical modeling.  
