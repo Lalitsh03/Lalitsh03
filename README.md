@@ -8,8 +8,7 @@ That's the professional version. The real story is that I got hooked on data bec
 
 I'm based in San Diego with a master's in MIS from Cal State Fullerton. I work primarily with SQL, Python, and Power BI, and I care more about whether the insight is useful than whether the model is fancy.
 
-🏐 Outside of work, I play volleyball and dream of opening a **Himalayan-themed café** someday, blending my cultural roots with a modern coffee-house vibe.
-🎮 I'm a hardware nerd at heart. I follow CPU/GPU launches way too closely, geek out over new advancements like UE5's Nanite and Lumen and how they push rendering boundaries, and I'm always reading up on what's next in gaming tech. When I'm not analyzing benchmarks, you'll find me grinding CS2, creating community maps, and getting outplayed by 12-year-olds with better reflexes. Hoping to land a project someday where I can bring the data side and the hardware side together.
+🏐 Outside of work, I play volleyball and dream of opening a **Himalayan-themed café** someday, blending my cultural roots with a modern coffee-house vibe. I'm a hardware nerd at heart. I follow CPU/GPU launches way too closely, geek out over new advancements like UE5's Nanite and Lumen and how they push rendering boundaries, and I'm always reading up on what's next in gaming tech. When I'm not analyzing benchmarks, you'll find me grinding CS2, creating community maps, and getting outplayed by 12-year-olds with better reflexes. Hoping to land a project someday where I can bring the data side and the hardware side together.
 
 🌐 **Check out my portfolio site:** [lalitsh03.github.io](https://lalitsh03.github.io/)
 
