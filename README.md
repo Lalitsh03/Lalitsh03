@@ -116,4 +116,4 @@ HP Technical University, Hamirpur (H.P.), India — May 2022
 [![Portfolio](https://img.shields.io/badge/Portfolio-lalitsh03.github.io-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://lalitsh03.github.io/)
 [![Email](https://img.shields.io/badge/Email-sh.lalit007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh.lalit007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lalitsharmacsuf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalitsharmacsuf/)
-[![Phone](https://img.shields.io/badge/Phone-(858)%20230--1074-34d399?style=for-the-badge&logo=phone&logoColor=white)](#)
+[![Phone](https://img.shields.io/badge/Phone-(858)%20214--8642-34d399?style=for-the-badge&logo=phone&logoColor=white)](#)
