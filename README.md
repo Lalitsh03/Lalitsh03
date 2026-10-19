@@ -2,7 +2,7 @@
 
 ## 💡 About Me
 
-I build things with data. Most recently that meant building Snowflake-backed Tableau dashboards and automated reporting for paid and organic social at **VaynerMedia**, including cutting a quarterly report build from 40 hours to about 3. Before that, I migrated 10+ years of messy operational records into a clean AWS database at Broswave Technologies and built Power BI dashboards that replaced hours of manual work.
+I build things with data. Most recently that meant building Snowflake-backed Tableau dashboards and automated reporting for paid and organic social at **VaynerMedia**, including cutting a quarterly report build from 40 hours to 3. Before that, I migrated 10+ years of messy operational records into a clean AWS database at Broswave Technologies and built Power BI dashboards that replaced hours of manual work.
 
 That's the professional version. The real story is that I got hooked on data because I wanted to know why two houses on the same street can sell for wildly different prices. So I scraped thousands of Redfin listings and built a geospatial model that explains housing prices with an R² of 0.98. Then I got curious about crime and property values, so I dug through 61K records across Boston. Then I pulled apart GPU benchmark data and AI upscaling claims to figure out if the generational price jumps are backed by real performance improvements or if companies are just slapping "AI-powered" on everything to justify charging more. Each question leads to the next one.
 
@@ -61,8 +61,8 @@ I'm based in California with a master's in Information Systems from Cal State Fu
 
 🔹 Built client-facing **Tableau dashboards** and bi-weekly and quarterly reports on **Snowflake** data, tracking impressions, engagement, CPA and VTA across paid and organic  
 🔹 Owned QA of a Snowflake ad data pipeline across **7+ platforms**, debugging SQL to fix missing metrics for **600+ assets a month**  
-🔹 Automated quarterly reporting in Google Sheets from Snowflake (ARRAYFORMULA, XLOOKUP, LET), auto-tagging posts via ClickUp and cutting build time from **40 hours to ~3 hours**  
-🔹 Diagnosed ad performance through content analysis, guiding creative decisions that lifted impressions **~30% over benchmarks**  
+🔹 Automated quarterly reporting in Google Sheets from Snowflake (ARRAYFORMULA, XLOOKUP, LET), auto-tagging posts via ClickUp and cutting build time from **40 hours to 3 hours**  
+🔹 Diagnosed ad performance via hook-rate and content analysis, guiding creative that lifted impressions **~30% over benchmarks**  
 🔹 Analyzed TikTok trends and competitor UGC to turn emerging trends into content ideas for the creative team
 
 ### Broswave Technologies | Data Analyst (Contract)
@@ -77,7 +77,7 @@ I'm based in California with a master's in Information Systems from Cal State Fu
 *Mar 2025 – Jan 2026 · San Jose, CA*
 
 🔹 Built a database of **500+ NGOs** by automating data collection via web scraping and **REST APIs**, saving **35+ hours per cycle**  
-🔹 Led end-to-end requirements gathering across **5 teams**, including UX/UI and backend, for the v1.0 release  
+🔹 Led end-to-end requirements gathering across **5 teams** for the v1.0 release  
 🔹 Managed a BA team through weekly syncs, task assignment, and progress tracking  
 🔹 Set up Google Analytics and defined KPIs to monitor growth, performance, and donor acquisition  
 🔹 Built **Power BI dashboards** tracking donation flows and operational costs
