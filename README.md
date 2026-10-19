@@ -30,6 +30,16 @@ When I'm not analyzing benchmarks, you'll find me on a volleyball court or grind
   <img src="assets/route-light.svg" alt="Career route by town elevation: Dharamshala 1,457 m, Mohali 316 m, Fullerton 50 m, San Jose 25 m, San Diego 19 m, Los Angeles 71 m" width="100%">
 </picture>
 
+<p align="center">
+  📍 Jump to a stop:
+  <a href="#dharamshala">Dharamshala</a> ·
+  <a href="#mohali">Mohali</a> ·
+  <a href="#fullerton">Fullerton</a> ·
+  <a href="#san-jose">San Jose</a> ·
+  <a href="#san-diego">San Diego</a> ·
+  <a href="#los-angeles">Los Angeles</a>
+</p>
+
 ## 🛠 Tech Stack
 
 ### 💻 Programming & Data
@@ -74,6 +84,8 @@ When I'm not analyzing benchmarks, you'll find me on a volleyball court or grind
 
 ## 💼 Experience
 
+<a id="los-angeles"></a>
+
 ### VaynerMedia | Resident Data Analyst, Social Media Analytics
 *Jul 2026 to Oct 2026 · Los Angeles, CA*
 
@@ -83,6 +95,8 @@ When I'm not analyzing benchmarks, you'll find me on a volleyball court or grind
 🔹 Diagnosed ad performance via hook-rate and content analysis, guiding creative that lifted impressions **~30% over benchmarks**  
 🔹 Analyzed TikTok trends and competitor UGC to turn emerging trends into content ideas for the creative team
 
+<a id="san-diego"></a>
+
 ### Broswave Technologies | Data Analyst (Contract)
 *Jan 2026 to Apr 2026 · San Diego, CA*
 
@@ -90,6 +104,8 @@ When I'm not analyzing benchmarks, you'll find me on a volleyball court or grind
 🔹 Wrote advanced SQL (CTEs, joins, window functions) to normalize legacy records, streamlining reporting pipeline development by **~50%**  
 🔹 Developed SOPs, BPMN diagrams, and training docs for **50+ employees** moving to a centralized cloud system  
 🔹 Built **Power BI dashboards** with DAX and data modeling, reducing manual data retrieval time by **~50%**
+
+<a id="san-jose"></a>
 
 ### Saayam For All | Business Analyst & Team Lead
 *Mar 2025 to Jan 2026 · San Jose, CA*
@@ -100,12 +116,16 @@ When I'm not analyzing benchmarks, you'll find me on a volleyball court or grind
 🔹 Set up Google Analytics and defined KPIs to monitor growth, performance, and donor acquisition  
 🔹 Built **Power BI dashboards** tracking donation flows and operational costs
 
+<a id="fullerton"></a>
+
 ### Cal State Fullerton | Graduate Researcher
 *Jan 2024 to Jun 2024 · Fullerton, CA*
 
 🔹 Conducted independent geospatial research analyzing environmental, social, and economic drivers of house pricing across Orange County  
 🔹 Synthesized 100K+ records across Redfin, US Census, and risk databases  
 🔹 Compared OLS, spatial lag, and GWR models to select the best-fit geospatial model, achieving **R² = 0.98**
+
+<a id="mohali"></a>
 
 ### Thinknext Technologies | Data Science Intern
 *Mar 2022 to Jul 2022 · Mohali, India*
@@ -147,6 +167,8 @@ ML-based diagnostic system predicting disease likelihood from patient symptom in
 
 **M.S. in Information Systems (IS Management)**  
 California State University, Fullerton · Jan 2025
+
+<a id="dharamshala"></a>
 
 **B.Tech. in Electronics & Communication Engineering**  
 Himachal Pradesh Technical University · Dharamshala, India · May 2022
