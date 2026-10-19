@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120" width="300" height="120" role="img" aria-label="Say hi: Send a LinkedIn DM">
+<rect x="1" y="1" width="298" height="118" rx="14" fill="#efeafd" stroke="#6741d9" stroke-opacity=".35" stroke-width="2"/>
+
+<g transform="translate(20 22)">
+<path d="M8 0 h62 a8 8 0 0 1 8 8 v34 a8 8 0 0 1 -8 8 h-40 l-14 12 v-12 h-8 a8 8 0 0 1 -8-8 v-34 a8 8 0 0 1 8-8z" fill="#fff" stroke="#211640" stroke-width="3" stroke-linejoin="round"/>
+<rect x="12" y="13" width="40" height="5" rx="2.5" fill="#211640"/><rect x="12" y="25" width="52" height="5" rx="2.5" fill="#c8bdf2"/>
+<path d="M44 46 h40 a7 7 0 0 1 7 7 v14 a7 7 0 0 1 -7 7 h-4 v9 l-10-9 h-26 a7 7 0 0 1 -7-7 v-14 a7 7 0 0 1 7-7z" fill="#6741d9" stroke="#211640" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="64" y="66" text-anchor="middle" font-size="15">👋</text>
+</g>
+<text x="118" y="58" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#211640">Say hi</text>
+<text x="118" y="84" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#6741d9">Send a LinkedIn DM →</text>
+</svg>
